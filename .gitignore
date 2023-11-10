@@ -5,3 +5,5 @@ screens/
 dataset/
 sprites/
 record/
+model_recognition.ipynb
+polygon_recognition.ipynb
